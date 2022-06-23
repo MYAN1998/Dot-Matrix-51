@@ -1,0 +1,225 @@
+{
+  "uuid": "497278747e024e22e5e00268ee31e91d",
+  "path": "Offline/Dot-Matrix",
+  "name": "Dot-Matrix",
+  "content": "",
+  "created_at": "2022-06-19 20:34:48",
+  "updated_at": "2022-06-20 12:00:24",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "b9c03c2442736e5238e40f1976bb94c1",
+      "title": "Dot-Matrix",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "db238b02d02149098bab643185348979": 1,
+        "02872164b9a24b619b50e3225c440f71": 1,
+        "a1592a1f0a3d4f198636e8b24c10eccb": 1,
+        "d3e00b483060436893883a04a1f63b47": 1,
+        "ee5abafa70cebd3b2dfcd956025719c4": 1,
+        "2bfc5f04d5d04b89bbd1a64535376196": 2,
+        "470db9a143bb42638f45a452defc6e9f": 1,
+        "93550193a7f67900f32a85bad256d13c": 1,
+        "6acd0f0ff255414cb574d0640fb00753": 4,
+        "5d56951fd43d4b5083b0f3cd9bfd5587": 16
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "30pF",
+          2,
+          "CAP-TH_L6.0-W3.5-P7.50-D1.0",
+          "C1,C2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C260735",
+            "BOM_Manufacturer": "Songtian Elec",
+            "BOM_Manufacturer Part": "S07S1E330KN0B0S0N0",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e7e0a2d4c54544d68b16d4578c167a96",
+            "uuid": "2bfc5f04d5d04b89bbd1a64535376196"
+          }
+        ],
+        [
+          "10uF",
+          1,
+          "CAP-TH_BD6.3-P2.50-D1.0-FD",
+          "C3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ValuePro",
+            "BOM_Manufacturer Part": "10uf/100V",
+            "BOM_Supplier Part": "C2029",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1a9b494b74c34d3b879eb7f824b3824d",
+            "uuid": "ee5abafa70cebd3b2dfcd956025719c4"
+          }
+        ],
+        [
+          "SLD0888DWC1BY_C2913073",
+          4,
+          "LED-SEG-TH_16P-L20.0-W20.0-P2.50-S15.0-BL-1",
+          "LED1,LED2,LED3,LED4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2913073",
+            "BOM_Manufacturer": "SUNLIGHT(光华)",
+            "BOM_Manufacturer Part": "SLD0888DWC1BY",
+            "puuid": "6b3ccd79dd5d4d34ba591a31c6c89de2",
+            "uuid": "6acd0f0ff255414cb574d0640fb00753"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "RES-TH_BD5.0-L15.5-P19.50-D0.7",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C714189",
+            "BOM_Manufacturer": "Huaxing Mechanical-Elec.",
+            "BOM_Manufacturer Part": "MF3WS-10KΩ±1%T",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "3555ffdfa5e3425c8467c785b518656f",
+            "uuid": "d3e00b483060436893883a04a1f63b47"
+          }
+        ],
+        [
+          "100",
+          16,
+          "R_AXIAL-0.3",
+          "R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3eb1249f3ebb4284ae221b0379016582",
+            "uuid": "5d56951fd43d4b5083b0f3cd9bfd5587"
+          }
+        ],
+        [
+          "TK-6830-2",
+          1,
+          "SW-TH_TK-6830-2",
+          "SW1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C528789",
+            "BOM_Manufacturer": "Yuandi(台湾元迪)",
+            "BOM_Manufacturer Part": "TK-6830-2",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1a2bac6271d4400789d5e63eb79f31b9",
+            "uuid": "a1592a1f0a3d4f198636e8b24c10eccb"
+          }
+        ],
+        [
+          "K2-1102DP-I3SW-04",
+          1,
+          "KEY-TH_4P-L6.4-W6.0-P4.50-LS7.3-TL",
+          "SW2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2685962",
+            "BOM_Manufacturer": "韩国韩荣",
+            "BOM_Manufacturer Part": "K2-1102DP-I3SW-04",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "3f159af1444c4bf6a8510c7bc989f67a",
+            "uuid": "db238b02d02149098bab643185348979"
+          }
+        ],
+        [
+          "STC89C52RC-40I",
+          1,
+          "DIP-40_L52.0-W13.7-P2.54-LS15.2-BL",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "STC",
+            "BOM_Manufacturer Part": "STC89C52RC-40I",
+            "BOM_Supplier Part": "C14022",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "ffc99a9154af47da9e011f86dc970875",
+            "uuid": "93550193a7f67900f32a85bad256d13c"
+          }
+        ],
+        [
+          "USB-302",
+          1,
+          "USB-A-TH_USB-302-T",
+          "USB1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SOFNG",
+            "BOM_Manufacturer Part": "USB-302",
+            "BOM_Supplier Part": "C112456",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "72c24f0fb46a455bb9600bf5f1be19f8",
+            "uuid": "02872164b9a24b619b50e3225c440f71"
+          }
+        ],
+        [
+          "-",
+          1,
+          "HC-49US_L11.5-W4.5-P4.88",
+          "X1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C353687",
+            "BOM_Manufacturer": "ZHUHAI MONEC ELEC",
+            "BOM_Manufacturer Part": "ESA11.0592F20M25F",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "c3f5f0ccc4444176a5a6d81e2c6071f5",
+            "uuid": "470db9a143bb42638f45a452defc6e9f"
+          }
+        ]
+      ],
+      "updateTime": 1655650735,
+      "createTime": 1655642088,
+      "histories": [],
+      "created_at": "2022-06-19 20:34:48",
+      "updated_at": "2022-06-19 22:58:55"
+    },
+    {
+      "uuid": "2ade1dd16462640737f2d094430b0743",
+      "puuid": "497278747e024e22e5e00268ee31e91d",
+      "title": "PCB-Dot-Matrix",
+      "filename": "PCB-Dot-Matrix.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e7e0a2d4c54544d68b16d4578c167a96": 2,
+        "1a9b494b74c34d3b879eb7f824b3824d": 1,
+        "6b3ccd79dd5d4d34ba591a31c6c89de2": 4,
+        "3555ffdfa5e3425c8467c785b518656f": 1,
+        "3eb1249f3ebb4284ae221b0379016582": 16,
+        "1a2bac6271d4400789d5e63eb79f31b9": 1,
+        "3f159af1444c4bf6a8510c7bc989f67a": 1,
+        "ffc99a9154af47da9e011f86dc970875": 1,
+        "72c24f0fb46a455bb9600bf5f1be19f8": 1,
+        "c3f5f0ccc4444176a5a6d81e2c6071f5": 1
+      },
+      "BOM": [],
+      "updateTime": 1655697624,
+      "createTime": 1655650648,
+      "histories": [],
+      "created_at": "2022-06-19 22:57:28",
+      "updated_at": "2022-06-20 12:00:24"
+    }
+  ],
+  "sort": [],
+  "title": "Dot-Matrix",
+  "foldername": "Dot-Matrix",
+  "schfilename": "Dot-Matrix.json",
+  "schfilemtime": 1655650735664
+}
